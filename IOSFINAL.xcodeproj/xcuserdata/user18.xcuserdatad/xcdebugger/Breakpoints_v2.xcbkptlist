@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "IOSFINAL/MarvelCollectionViewCell.swift"
+            timestampString = "583136346.718999"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "MarvelCollectionViewCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "IOSFINAL.MarvelCollectionViewCell.__allocating_init(frame: __C.CGRect) -&gt; IOSFINAL.MarvelCollectionViewCell"
+                  moduleName = "IOSFINAL"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user18/Downloads/IOSFINAL-master/IOSFINAL/MarvelCollectionViewCell.swift"
+                  timestampString = "583136346.749323"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "IOSFINAL.MarvelCollectionViewCell.init(frame: __C.CGRect) -&gt; IOSFINAL.MarvelCollectionViewCell"
+                  moduleName = "IOSFINAL"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user18/Downloads/IOSFINAL-master/IOSFINAL/MarvelCollectionViewCell.swift"
+                  timestampString = "583136346.752859"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "56">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "IOSFINAL.MarvelCollectionViewCell.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;IOSFINAL.MarvelCollectionViewCell&gt;"
+                  moduleName = "IOSFINAL"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user18/Downloads/IOSFINAL-master/IOSFINAL/MarvelCollectionViewCell.swift"
+                  timestampString = "583136346.7661279"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "IOSFINAL.MarvelCollectionViewCell.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;IOSFINAL.MarvelCollectionViewCell&gt;"
+                  moduleName = "IOSFINAL"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user18/Downloads/IOSFINAL-master/IOSFINAL/MarvelCollectionViewCell.swift"
+                  timestampString = "583136346.776859"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "107">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "IOSFINAL.MarvelCollectionViewCell.__deallocating_deinit"
+                  moduleName = "IOSFINAL"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user18/Downloads/IOSFINAL-master/IOSFINAL/MarvelCollectionViewCell.swift"
+                  timestampString = "583136346.78857"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
